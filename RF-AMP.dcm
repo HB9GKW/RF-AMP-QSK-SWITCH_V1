@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Wuerth_750817014
+D Primary 78-375V 50kHz, Dual Secondary 5V-0.7A/5V-0.7A, Flyback Transformer, PCB
+K PCB Flyback Transformer Dual Primary Secondary
+F https://www.mouser.ch/datasheet/2/445/750817014-1724328.pdf
+$ENDCMP
+#
+#End Doc Library
